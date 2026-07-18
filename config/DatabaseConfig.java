@@ -36,4 +36,5 @@ public class DatabaseConfig {
     // C'est comme un "câble" qui relie Java à MySQL
     public Connection getConnection() throws SQLException {
         return DriverManager.getConnection(URL, USER, PASSWORD);
-    }}
+    }
+}
