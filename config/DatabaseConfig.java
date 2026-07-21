@@ -17,6 +17,7 @@ public class DatabaseConfig {
     // L'utilisateur de MySQL (par défaut 'root')
     private static final String USER = "root";
     
+    
     // TRÈS IMPORTANT : Remplacez par VOTRE mot de passe MySQL
     private static final String PASSWORD = "";
 
